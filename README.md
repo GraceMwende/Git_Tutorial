@@ -14,11 +14,11 @@ We will use BMI to determine whether whther a user is underweight, obese or norm
 
 
 ### BMI	Weight Status
-Below 18.5	Underweight /n
-18.5—24.9	Healthy Weight /n
-25.0—29.9	Overweight /n
-30.0-34.9   obese /n
-35.0-39.9    Severely obese /n
-above 39.9          Morbidily Obese /n      
+#### Below 18.5	Underweight 
+#### 18.5—24.9	Healthy Weight 
+#### 25.0—29.9	Overweight 
+#### 30.0-34.9   obese 
+#### 35.0-39.9    Severely obese 
+#### above 39.9          Morbidily Obese       
 
 
