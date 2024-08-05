@@ -11,5 +11,3 @@ BMI = Weight/ (Height * Height)
 
 We will use BMI to determine whether whther a user is underweight, obese or normal.
 
-This is the last edit
-Changes on the new features-branch
